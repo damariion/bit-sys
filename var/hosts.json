@@ -1,0 +1,623 @@
+{
+    "n00dles": {
+        "root": true,
+        "ports": 0,
+        "hack": 1,
+        "ram": {
+            "used": 0,
+            "max": 4
+        }
+    },
+    "foodnstuff": {
+        "root": true,
+        "ports": 0,
+        "hack": 1,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "sigma-cosmetics": {
+        "root": true,
+        "ports": 0,
+        "hack": 5,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "joesguns": {
+        "root": true,
+        "ports": 0,
+        "hack": 10,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "hong-fang-tea": {
+        "root": true,
+        "ports": 0,
+        "hack": 30,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "harakiri-sushi": {
+        "root": true,
+        "ports": 0,
+        "hack": 40,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "iron-gym": {
+        "root": true,
+        "ports": 1,
+        "hack": 100,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "max-hardware": {
+        "root": true,
+        "ports": 1,
+        "hack": 80,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "zer0": {
+        "root": true,
+        "ports": 1,
+        "hack": 75,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "nectar-net": {
+        "root": true,
+        "ports": 0,
+        "hack": 20,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "CSEC": {
+        "root": true,
+        "ports": 1,
+        "hack": 59,
+        "ram": {
+            "used": 0,
+            "max": 8
+        }
+    },
+    "phantasy": {
+        "root": true,
+        "ports": 2,
+        "hack": 100,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "silver-helix": {
+        "root": true,
+        "ports": 2,
+        "hack": 150,
+        "ram": {
+            "used": 0,
+            "max": 64
+        }
+    },
+    "neo-net": {
+        "root": true,
+        "ports": 1,
+        "hack": 50,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "omega-net": {
+        "root": false,
+        "ports": 2,
+        "hack": 201,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "netlink": {
+        "root": false,
+        "ports": 3,
+        "hack": 387,
+        "ram": {
+            "used": 0,
+            "max": 128
+        }
+    },
+    "crush-fitness": {
+        "root": false,
+        "ports": 2,
+        "hack": 236,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "avmnite-02h": {
+        "root": false,
+        "ports": 2,
+        "hack": 216,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "johnson-ortho": {
+        "root": false,
+        "ports": 2,
+        "hack": 267,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "the-hub": {
+        "root": false,
+        "ports": 2,
+        "hack": 280,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "computek": {
+        "root": false,
+        "ports": 3,
+        "hack": 367,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "summit-uni": {
+        "root": false,
+        "ports": 3,
+        "hack": 455,
+        "ram": {
+            "used": 0,
+            "max": 64
+        }
+    },
+    "catalyst": {
+        "root": false,
+        "ports": 3,
+        "hack": 422,
+        "ram": {
+            "used": 0,
+            "max": 128
+        }
+    },
+    "I.I.I.I": {
+        "root": false,
+        "ports": 3,
+        "hack": 356,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "rothman-uni": {
+        "root": false,
+        "ports": 3,
+        "hack": 385,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "syscore": {
+        "root": false,
+        "ports": 4,
+        "hack": 592,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "zb-institute": {
+        "root": false,
+        "ports": 5,
+        "hack": 735,
+        "ram": {
+            "used": 0,
+            "max": 128
+        }
+    },
+    "millenium-fitness": {
+        "root": false,
+        "ports": 3,
+        "hack": 482,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "aevum-police": {
+        "root": false,
+        "ports": 4,
+        "hack": 440,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "lexo-corp": {
+        "root": false,
+        "ports": 4,
+        "hack": 702,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "rho-construction": {
+        "root": false,
+        "ports": 3,
+        "hack": 477,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "alpha-ent": {
+        "root": false,
+        "ports": 4,
+        "hack": 584,
+        "ram": {
+            "used": 0,
+            "max": 128
+        }
+    },
+    "snap-fitness": {
+        "root": false,
+        "ports": 4,
+        "hack": 753,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "galactic-cyber": {
+        "root": false,
+        "ports": 5,
+        "hack": 834,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "aerocorp": {
+        "root": false,
+        "ports": 5,
+        "hack": 852,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "global-pharm": {
+        "root": false,
+        "ports": 4,
+        "hack": 784,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "omnia": {
+        "root": false,
+        "ports": 5,
+        "hack": 869,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "deltaone": {
+        "root": false,
+        "ports": 5,
+        "hack": 858,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "unitalife": {
+        "root": false,
+        "ports": 4,
+        "hack": 802,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "defcomm": {
+        "root": false,
+        "ports": 5,
+        "hack": 887,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "icarus": {
+        "root": false,
+        "ports": 5,
+        "hack": 883,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "univ-energy": {
+        "root": false,
+        "ports": 4,
+        "hack": 821,
+        "ram": {
+            "used": 0,
+            "max": 64
+        }
+    },
+    "solaris": {
+        "root": false,
+        "ports": 5,
+        "hack": 785,
+        "ram": {
+            "used": 0,
+            "max": 128
+        }
+    },
+    "zeus-med": {
+        "root": false,
+        "ports": 5,
+        "hack": 840,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "zb-def": {
+        "root": false,
+        "ports": 4,
+        "hack": 784,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "taiyang-digital": {
+        "root": false,
+        "ports": 5,
+        "hack": 904,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "nova-med": {
+        "root": false,
+        "ports": 4,
+        "hack": 796,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "infocomm": {
+        "root": false,
+        "ports": 5,
+        "hack": 937,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "microdyne": {
+        "root": false,
+        "ports": 5,
+        "hack": 823,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "run4theh111z": {
+        "root": false,
+        "ports": 4,
+        "hack": 529,
+        "ram": {
+            "used": 0,
+            "max": 512
+        }
+    },
+    "titan-labs": {
+        "root": false,
+        "ports": 5,
+        "hack": 804,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "applied-energetics": {
+        "root": false,
+        "ports": 4,
+        "hack": 782,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "stormtech": {
+        "root": false,
+        "ports": 5,
+        "hack": 982,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "helios": {
+        "root": false,
+        "ports": 5,
+        "hack": 819,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "fulcrumtech": {
+        "root": false,
+        "ports": 5,
+        "hack": 1204,
+        "ram": {
+            "used": 0,
+            "max": 1024
+        }
+    },
+    "vitalife": {
+        "root": false,
+        "ports": 5,
+        "hack": 821,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "omnitek": {
+        "root": false,
+        "ports": 5,
+        "hack": 969,
+        "ram": {
+            "used": 0,
+            "max": 256
+        }
+    },
+    "4sigma": {
+        "root": false,
+        "ports": 5,
+        "hack": 1004,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "kuai-gong": {
+        "root": false,
+        "ports": 5,
+        "hack": 1042,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    ".": {
+        "root": false,
+        "ports": 4,
+        "hack": 511,
+        "ram": {
+            "used": 0,
+            "max": 16
+        }
+    },
+    "powerhouse-fitness": {
+        "root": false,
+        "ports": 5,
+        "hack": 991,
+        "ram": {
+            "used": 0,
+            "max": 32
+        }
+    },
+    "b-and-a": {
+        "root": false,
+        "ports": 5,
+        "hack": 1115,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "blade": {
+        "root": false,
+        "ports": 5,
+        "hack": 948,
+        "ram": {
+            "used": 0,
+            "max": 256
+        }
+    },
+    "nwo": {
+        "root": false,
+        "ports": 5,
+        "hack": 1169,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "clarkinc": {
+        "root": false,
+        "ports": 5,
+        "hack": 1005,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "The-Cave": {
+        "root": false,
+        "ports": 5,
+        "hack": 925,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "ecorp": {
+        "root": false,
+        "ports": 5,
+        "hack": 1140,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "fulcrumassets": {
+        "root": false,
+        "ports": 5,
+        "hack": 1174,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    },
+    "megacorp": {
+        "root": false,
+        "ports": 5,
+        "hack": 1332,
+        "ram": {
+            "used": 0,
+            "max": 0
+        }
+    }
+}

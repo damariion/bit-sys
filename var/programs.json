@@ -1,0 +1,13 @@
+{
+    "NUKE": true,
+    "BruteSSH": true,
+    "FTPCrack": true,
+    "HTTPWorm": false,
+    "AutoLink": true,
+    "Formulas": false,
+    "RelaySMTP": false,
+    "SQLInject": false,
+    "DeepscanV1": true,
+    "DeepscanV2": false,
+    "ServerProfiler": true
+}
