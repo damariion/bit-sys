@@ -24,13 +24,17 @@ export async function main(ns: NS)
     {
         struct[host] =
         {
-            "root"  : await nsapi.call("hasRootAccess", host),
-            "ports" : await nsapi.call("getServerNumPortsRequired", host),
-            "hack"  : await nsapi.call("getServerRequiredHackingLevel", host),
-            "ram"   : {
-                "used" : await nsapi.call("getServerUsedRam", host), 
-                "max"  : await nsapi.call("getServerMaxRam", host)
+            "root" : await nsapi.call("hasRootAccess", host),
+            "port" : await nsapi.call("getServerNumPortsRequired", host),
+            "hack" : await nsapi.call("getServerRequiredHackingLevel", host),
+            "secure"  : {
+                "now" : await nsapi.call("getServerSecurityLevel", host), 
+                "min" : await nsapi.call("getServerMinSecurityLevel", host)
             },
+            "money" : {
+                "now" : await nsapi.call("getServerMoneyAvailable", host),
+                "max" : await nsapi.call("getServerMaxMoney", host)
+            }
         }
     }
 
