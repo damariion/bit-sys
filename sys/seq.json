@@ -1,4 +1,8 @@
 {
-    "bitsys/srv/lshosts.ts" : 5,
-    "bitsys/srv/lsprogs.ts" : 3600
+    "bitsys/srv/lshosts.ts" : 60,
+    "bitsys/srv/lsprogs.ts" : 60,
+
+    "bitsys/srv/rnuke.ts"  : 3600,
+    "bitsys/srv/rsync.ts"  : 3600,
+    "bitsys/srv/tmpcls.ts" : 3600
 }
