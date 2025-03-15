@@ -6,10 +6,10 @@ export async function main(ns: NS)
     ns.ramOverride(3); 
     
     // initalization
-    let res = new Object();
-    let loc = "bitsys/tmp/nsout.json";
+    let loc = "bitsys/var/temp.json";
+    let res = JSON.parse(ns.read(loc));
     
     // exploit 'n store
-    res[ns.args[0]] = ns[ns.args[0]](...ns.args.slice(1));
-    ns.write(loc, JSON.stringify(res), 'w');
+    res["nsx." + ns.args[0]] = ns[ns.args[0]](...ns.args.slice(1));
+    ns.write(loc, JSON.stringify(res, null, 4), 'w');
 }
