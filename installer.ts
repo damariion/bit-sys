@@ -5,12 +5,14 @@ export class Installer
     #sources =
     {
         "sys":[
-            "seq.json",
+            "init.ts",
             "ssm.ts",
+            "seq.json",
         ],
 
         "lib":[
-            "nsapi.ts"
+            "nsapi.ts",
+            "sysapi.ts"
         ],
 
         "srv":[
@@ -22,7 +24,7 @@ export class Installer
         ],
 
         "rmt":[
-            "rnsapi.ts",
+            "rnsx.ts",
         ],
 
         "bin":[
