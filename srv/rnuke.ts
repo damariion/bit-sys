@@ -32,7 +32,7 @@ export async function main(ns: NS)
     let nsapi  = new NSAPI(ns);
     
     let hosts  = JSON.parse(ns.read("bitsys/var/hosts.json"));
-    let progs  = JSON.parse(ns.read("bitsys/var/programs.json"));
+    let progs  = JSON.parse(ns.read("bitsys/var/progs.json"));
     
     let lhack  = await nsapi.call("getHackingLevel");
     let lport  = available_ports(progs);
