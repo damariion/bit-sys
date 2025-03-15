@@ -12,7 +12,7 @@ export class SysAPI
     {
         // absence of items = nonexistent
         return (Array(await this.#nsapi.call(
-            "ls", "host", path)).length > 0);
+            "ls", "home", path)).length > 0);
     }
 
     async sizeOf(path: string)
