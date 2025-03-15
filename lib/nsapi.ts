@@ -1,7 +1,7 @@
 export class NSAPI
 {
     // standard output
-    #out = "bitsys/tmp/nsout.json";
+    #out = "bitsys/var/temp.json";
 
     // supported api's
     #ns = "bitsys/srv/nsx.ts";
@@ -17,7 +17,7 @@ export class NSAPI
         
         // capture
         let stdout = JSON.parse(await
-            this.#_.read(this.#out))[id];
+            this.#_.read(this.#out))["nsx." + id];
 
         // reset
         return stdout;
