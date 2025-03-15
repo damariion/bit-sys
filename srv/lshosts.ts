@@ -39,5 +39,4 @@ export async function main(ns: NS)
     }
 
     await ns.write(path, JSON.stringify(struct, null, 4), 'w');
-    await ns.sleep(100);
 }
