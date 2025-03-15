@@ -2,7 +2,7 @@
 
 export async function main(ns: NS) 
 {
-    let path = "bitsys/var/programs.json";
+    let path = "bitsys/var/progs.json";
     let struct = {
         "NUKE"           : null,
         "BruteSSH"       : null,
