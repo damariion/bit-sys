@@ -27,5 +27,4 @@ export async function main(ns: NS)
     // writing
     await ns.write(path, JSON.stringify(
         struct, null, 4), 'w');
-    await ns.sleep(100);
 }
