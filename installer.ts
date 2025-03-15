@@ -16,8 +16,8 @@ export class Installer
         ],
 
         "srv":[
-            "lshost.ts",
-            "lsprog.ts",
+            "lshosts.ts",
+            "lsprogs.ts",
             "nsx.ts",
             "rnuke.ts",
             "rsync.ts",
